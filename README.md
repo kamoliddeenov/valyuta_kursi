@@ -1,1 +1,5 @@
-# valyuta_kursi
+# Valyuta kursini aniqlash
+
+Reqiurements:
+- requests
+- exchangerate-api
